@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Текущее значение переменной HOME: $HOME"
+echo "Current vallue of HOME: $HOME"

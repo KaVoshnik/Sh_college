@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Текущая дата: $(date)"
+echo "Current date and time: $(date)"
